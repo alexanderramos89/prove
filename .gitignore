@@ -1,0 +1,18 @@
+# Build and Release Folders
+bin-debug/3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+bin-release/3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+[Oo]bj/3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+[Bb]in/3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+
+# Other files and folders
+.settings/3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+
+# Executables
+*.swf3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+*.air3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+*.ipa3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+*.apk3Hvr66snqP4EVXZ1WStDdbKmHEu7awHqhB
+
+# Project files, B.jason. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
